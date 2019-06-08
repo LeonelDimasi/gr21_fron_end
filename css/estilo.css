@@ -1,0 +1,16 @@
+img{
+      height:100px;
+      width: 100%;
+      top: 10px;
+      text-align: left;
+
+  }
+.encabezado{
+  height:100px;
+  top: 10px;
+  text-align: left;
+  background-image: url("./img/descarga.jpg");
+}
+.color{
+  background-color: blue;
+}
